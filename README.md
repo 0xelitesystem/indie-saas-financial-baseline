@@ -21,16 +21,16 @@ Top to bottom on day 1, or as soon as possible if you've already started. Each f
 ## Files
 
 - `README.md` (this file)
-- `01-separate-accounts.md` - business bank, business card, why before anything else
-- `02-legal-entity-decision.md` - sole prop, LLC, S-corp, when to upgrade
-- `03-sales-tax-nexus.md` - US states, EU VAT, what triggers nexus for SaaS
-- `04-cogs-tracking.md` - per-user COGS for AI-cost-heavy businesses
-- `05-runway-math.md` - cash on hand, burn, what counts as runway
-- `06-byok-pricing-logic.md` - when BYOK preserves margin, when bundled is right
-- `07-tax-fundamentals.md` - quarterly estimated tax, deductible categories
-- `08-monthly-review.md` - the 30-minute monthly money review procedure
-- `09-when-to-incorporate.md` - revenue, liability, hiring triggers
-- `10-what-to-avoid.md` - commingling, late filings, ignoring sales tax
+- [01-separate-accounts.md](01-separate-accounts.md) - business bank, business card, why before anything else
+- [02-legal-entity-decision.md](02-legal-entity-decision.md) - sole prop, LLC, S-corp, when to upgrade
+- [03-sales-tax-nexus.md](03-sales-tax-nexus.md) - US states, EU VAT, what triggers nexus for SaaS
+- [04-cogs-tracking.md](04-cogs-tracking.md) - per-user COGS for AI-cost-heavy businesses
+- [05-runway-math.md](05-runway-math.md) - cash on hand, burn, what counts as runway
+- [06-byok-pricing-logic.md](06-byok-pricing-logic.md) - when BYOK preserves margin, when bundled is right
+- [07-tax-fundamentals.md](07-tax-fundamentals.md) - quarterly estimated tax, deductible categories
+- [08-monthly-review.md](08-monthly-review.md) - the 30-minute monthly money review procedure
+- [09-when-to-incorporate.md](09-when-to-incorporate.md) - revenue, liability, hiring triggers
+- [10-what-to-avoid.md](10-what-to-avoid.md) - commingling, late filings, ignoring sales tax
 
 ## Disclaimer
 
@@ -43,6 +43,10 @@ This is operational guidance, not legal or tax advice. Talk to a CPA, talk to a 
 - [solo-saas-launch-checklist](https://github.com/0xelitesystem/solo-saas-launch-checklist) - pre-launch operations
 - [byok-security-checklist](https://github.com/0xelitesystem/byok-security-checklist) - security side of BYOK
 - [legal-pages-starter](https://github.com/0xelitesystem/legal-pages-starter) - terms, privacy, refund policy templates
+
+## More
+
+Part of a catalog of single-file browser tools and plain-language references, all MIT licensed and dependency-free: [0xelitesystem.github.io](https://0xelitesystem.github.io/). Built by [elitesystem.ai](https://elitesystem.ai).
 
 ## License
 
