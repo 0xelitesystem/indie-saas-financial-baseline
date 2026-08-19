@@ -90,16 +90,16 @@ Standard corporate structure. Required if you're raising VC funding or have outs
 
 ```
 Are you raising VC funding?
-├── Yes → C-corp (Delaware)
-└── No → Continue
+├── Yes -> C-corp (Delaware)
+└── No -> Continue
 
 Do you have paying customers or significant liability exposure?
-├── No → Sole prop is fine for now. Plan to upgrade.
-└── Yes → Continue
+├── No -> Sole prop is fine for now. Plan to upgrade.
+└── Yes -> Continue
 
 Is net profit > $80K/year?
-├── No → Single-member LLC, taxed as sole prop. Default.
-└── Yes → Single-member LLC with S-corp election. Talk to a CPA.
+├── No -> Single-member LLC, taxed as sole prop. Default.
+└── Yes -> Single-member LLC with S-corp election. Talk to a CPA.
 ```
 
 ## When to revisit
