@@ -2,6 +2,8 @@
 
 Money discipline for solo SaaS operators. The boring infrastructure work that keeps an indie business out of trouble with the IRS, with banks, and with itself.
 
+For general information only. This is not financial, tax or legal advice. Check the numbers with a qualified professional before you rely on them.
+
 Mirrors the structure of `security-legal-baseline`: standing rules you set up once, plus operational rhythms you run forever.
 
 ## Why this exists
